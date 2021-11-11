@@ -1,0 +1,12 @@
+{
+  "presets": ["@babel/react", "module:metro-react-native-babel-preset"],
+  "plugins": [
+    "@babel/plugin-syntax-dynamic-import",
+    ["@babel/plugin-proposal-decorators", {"legacy": true}]
+  ],
+  "env": {
+    "production": {
+      "plugins": ["transform-remove-console"]
+    }
+  }
+}

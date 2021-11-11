@@ -1,0 +1,6 @@
+{
+  "WEB_APP_VERSION": "2.1",
+  "SHOW_ONCE": "true",
+  "VERSION_CHECK_TIMER": "300000",
+  "MANDATORY_UPDATE_WEB": "true"
+}

@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/dancormier/react-native-swipeout",
+  "license": "MIT",
+  "name": "react-native-swipeout",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dancormier/react-native-swipeout.git"
+  },
+  "version": "2.3.6"
+}

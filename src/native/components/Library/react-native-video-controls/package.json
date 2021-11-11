@@ -1,0 +1,66 @@
+{
+  "_from": "react-native-video-controls",
+  "_id": "react-native-video-controls@2.8.1",
+  "_inBundle": false,
+  "_integrity": "sha512-dBmrE3TAKaR1gYMfbukjAM6Xo8OMZyRrxPzZtnaUgWcvGo11PQwzaI/j8HPD5fLgO+rlweP2pDpEJyIBsJvJkw==",
+  "_location": "/react-native-video-controls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-video-controls",
+    "name": "react-native-video-controls",
+    "escapedName": "react-native-video-controls",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-video-controls/-/react-native-video-controls-2.8.1.tgz",
+  "_shasum": "30ae707d8d218fed34bba3fc027b3943c5f438d9",
+  "_spec": "react-native-video-controls",
+  "_where": "/Users/purva.reddy/Kora-React",
+  "author": {
+    "name": "Nubix",
+    "url": "https://github.com/itsnubix"
+  },
+  "bugs": {
+    "url": "https://github.com/itsnubix/react-native-video-controls/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "deprecated": false,
+  "description": "A set of GUI controls for the react-native-video component",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^0.0.5",
+    "eslint": "^6.5.1"
+  },
+  "homepage": "https://github.com/itsnubix/react-native-video-controls#readme",
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player"
+  ],
+  "license": "MIT",
+  "main": "VideoPlayer.js",
+  "name": "react-native-video-controls",
+  "peerDependencies": {
+    "react-native": ">=0.46.0",
+    "react-native-video": ">=2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsnubix/react-native-video-controls.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "version": "2.8.1"
+}

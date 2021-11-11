@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "303189139154",
+    "firebase_url": "https://react-native-5309b.firebaseio.com",
+    "project_id": "react-native-5309b",
+    "storage_bucket": "react-native-5309b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303189139154:android:0eb4e918711e53ea32970b",
+        "android_client_info": {
+          "package_name": "com.koraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3sxcUME5S1HNKxXzywdeuI4-ptZIJK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303189139154-l2erbm860c6bgmfg24eutudall961t9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kora.workassist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303189139154:android:b30cfc594dcddf4b32970b",
+        "android_client_info": {
+          "package_name": "com.koraapp.workassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3sxcUME5S1HNKxXzywdeuI4-ptZIJK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303189139154-l2erbm860c6bgmfg24eutudall961t9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kora.workassist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303189139154:android:2d128a45c0283afd32970b",
+        "android_client_info": {
+          "package_name": "com.koraapp.workassistqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3sxcUME5S1HNKxXzywdeuI4-ptZIJK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303189139154-dr1955kfkovd0pu8kd2oavtfst1l7he2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303189139154-l2erbm860c6bgmfg24eutudall961t9k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kora.workassist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

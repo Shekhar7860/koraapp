@@ -1,0 +1,5 @@
+<resources>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="bgtransparent">#00000000</color>
+</resources>

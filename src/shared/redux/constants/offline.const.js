@@ -1,0 +1,5 @@
+export const IS_OFFLINE = 'IS_OFFLINE';
+export const ADD_TO_OFFLINE_QUEUE = 'ADD_TO_OFFLINE_QUEUE';
+export const REMOVE_FROM_OFFLINE_QUEUE = 'REMOVE_FROM_OFFLINE_QUEUE';
+export const TAKE_LAST = 'TAKE_LAST';
+export const TAKE_EVERY = 'TAKE_EVERY';

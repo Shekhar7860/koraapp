@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-events-calendar",
+  "_id": "react-native-events-calendar@1.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-2jMFWaNLA45+6qe230WpxZ1+DtrvlvW8XWCIhUzJ3rejiulKTNrc55QPM+Xm+cpZH2gRGfSykyJwY1XzDZgj/A==",
+  "_location": "/react-native-events-calendar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-events-calendar",
+    "name": "react-native-events-calendar",
+    "escapedName": "react-native-events-calendar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-events-calendar/-/react-native-events-calendar-1.0.8.tgz",
+  "_shasum": "e0e15179d025fe1c0ea923308218497c79d65945",
+  "_spec": "react-native-events-calendar",
+  "_where": "/Users/purvaa.reddy/Kora-React",
+  "author": {
+    "name": "Duy Luong"
+  },
+  "bugs": {
+    "url": "https://github.com/duyluonglc/react-native-events-calendar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  },
+  "deprecated": false,
+  "description": "show calendar events by date",
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.0"
+  },
+  "homepage": "https://github.com/duyluonglc/react-native-events-calendar#readme",
+  "keywords": [
+    "react-native",
+    "calendar",
+    "event",
+    "events",
+    "daily"
+  ],
+  "license": "ISC",
+  "main": "./src/EventCalendar.js",
+  "name": "react-native-events-calendar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyluonglc/react-native-events-calendar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.8"
+}
